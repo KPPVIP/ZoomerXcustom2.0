@@ -1,0 +1,14 @@
+[Openiv] goto update\x64\dlcpacks
+1.Create new folder [zoomerx]
+And [dlc.rpf] go to folder zoomerx.
+
+2.[Openiv] update\update.rpf\common\data\dlclist.xml
+then use notepad open it,add new line.
+
+<Item>dlcpacks:\zoomerx\</Item>
+
+3.Spawn name zoomerx
+
+      Sorry for English
+     -Model GTAsan
+     -No Tuning

@@ -1,0 +1,12 @@
+Goto - update\x64\dlcpacks\mpbiker\dlc.rpf\x64\levels\gta5\vehicles\mpbikervehicles.rpf
+
+And - update\x64\dlcpacks\patchday13ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
+
+     And Replace hakuchou2.yft,hakuchou2_hi.yft,hakuchou2.ytd
+
+   
+Do not forget backup file
+
+Sorry for English   
+-Model-GTAsan 
+Thx for Downdload
